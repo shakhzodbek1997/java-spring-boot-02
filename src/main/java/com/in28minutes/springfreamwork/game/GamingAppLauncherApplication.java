@@ -1,7 +1,5 @@
-package com.in28minutes.springfreamwork;
+package com.in28minutes.springfreamwork.game;
 
-import com.in28minutes.springfreamwork.game.GameRunner;
-import com.in28minutes.springfreamwork.game.GamingConsole;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
